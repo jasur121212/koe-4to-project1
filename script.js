@@ -51,12 +51,9 @@ class Canvas {
         this.offHearts = [];
         this.data = null;
         this.texts = [
-            "Alabama, Arkansas",
-            "I do love my ma and pa",
-            "Not that way that I do love you",
-            "Well, holy moly, me oh my",
-            "You're the apple of my eye",
-            "Girl, I've never loved one like you"
+            "Анастасия",
+            "это тебе <33",
+
         ]; // Массив текстов
         this.currentTextIndex = 0; // Индекс текущего текста
         this.currentText = ""; // Текущий текст для эффекта печатания
